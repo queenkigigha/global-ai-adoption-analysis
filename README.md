@@ -29,7 +29,6 @@ The project transforms raw company-level data into actionable insights that can 
 | KPI                              |  Value |
 | -------------------------------- | -----: |
 | Average AI Adoption Rate         |  33.95 |
-| Average AI Risk Management Score |  59.11 |
 | Companies with AI Budget         | 99.28% |
 | Companies in Early Stage         | 48.19% |
 
@@ -53,7 +52,7 @@ The project transforms raw company-level data into actionable insights that can 
 
 ## 📷 Dashboard Preview
 
-![AI Company Adoption Dashboard](images/dashboard.png)
+![AI Company Adoption Dashboard](images/dasboard.png)
 
 ## 📂 Project Structure
 
@@ -70,9 +69,9 @@ AI-Company-Adoption/
 │   └── AI_Company_Adoption.pbix
 │
 └── images/
-    └── dashboard.png
+    └── dasboard.png
     └── datamodel.png
-    └── 
+    └── data set.png
 ```
 
 ## 🚀 What I Learned
