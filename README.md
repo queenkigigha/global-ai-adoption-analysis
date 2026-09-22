@@ -53,7 +53,7 @@ The project transforms raw company-level data into actionable insights that can 
 
 ## 📷 Dashboard Preview
 
-![AI Company Adoption Dashboard](dashboard.png)
+![AI Company Adoption Dashboard](images/dashboard.png)
 
 ## 📂 Project Structure
 
@@ -63,12 +63,16 @@ AI-Company-Adoption/
 ├── README.md
 ├── dataset/
 │   └── ai_company_adoption.csv
+│   └── ai_industry_summary.csv
+│   └── country_ai_index.csv
 │
 ├── dashboard/
 │   └── AI_Company_Adoption.pbix
 │
 └── images/
     └── dashboard.png
+    └── datamodel.png
+    └── 
 ```
 
 ## 🚀 What I Learned
