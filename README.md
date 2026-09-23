@@ -66,7 +66,7 @@ AI-Company-Adoption/
 │   └── country_ai_index.csv
 │
 ├── dashboard/
-│   └── AI_Company_Adoption.pbix
+│   └── Global Ai Adoption.pbix
 │
 └── images/
     └── dasboard.png
